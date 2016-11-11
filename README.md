@@ -1,2 +1,3 @@
-# sails_demo
-Demo of sails application.Demo application. This application demonstrate sails application abilities
+# epam_demo
+
+a [Sails](http://sailsjs.org) application
