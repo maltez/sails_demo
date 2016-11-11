@@ -1,2 +1,2 @@
 # sails_demo
-Demo of sails application. This application demonstrate sails application abilities
+Demo of sails application.Demo application. This application demonstrate sails application abilities
